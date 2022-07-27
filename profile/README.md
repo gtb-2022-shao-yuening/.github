@@ -9,4 +9,4 @@
 
 #### Hope you have a nice day and enjoy your life!
 
-<img src="../pishen.png" alt="PiShen" width="20%" />
+<img src="pishen.png" alt="PiShen" width="20%" />
